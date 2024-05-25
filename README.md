@@ -1,5 +1,5 @@
-=============================================================
-            HANYA UNTUK TUJUAN PEMBELAJARAN
+
+HANYA UNTUK TUJUAN PEMBELAJARAN
 =============================================================
 
 Selamat datang!
